@@ -1,0 +1,13 @@
+403 Forbidden
+X-Amz-Id-2: rIdy3FfAd6FVBed+yckryiLufvCLKJNMqVq9dkpHE6V/XR3ZeIhfAuPkXbkyCvaiTW7R2ZZj6K8=
+Date: Sat, 06 Jun 2020 07:41:25 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000
+X-Amz-Request-Id: BD56350403A1A4B9
+Server: ATS
+Age: 1
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: application/xml

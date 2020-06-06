@@ -1,0 +1,16 @@
+200 OK
+Server: ATS
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.2.31
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:35:49 GMT
+Vary: Accept-Encoding
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+Age: 2
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IlwvaUt2SFRGTlZLbFE0U3BOaW9VRERnPT0iLCJ2YWx1ZSI6Imd0VTFLNzA1dW1LT3ZoYmtnQ1lPaUM3OEpYeG13XC8reWx6dWttMXQ4ZGJpcENWeHNldkRpSTVJQzFTeWd0K2NaIiwibWFjIjoiOTk4YTczM2NjYmE3NTNlYTNiYWIwNjZiZDFlMWJmNWEyMzU0ZjJiMWNlYmZlMDRkZjZkYzllMWE5YzY0MDA0MiJ9; expires=Sat, 06-Jun-2020 09:35:48 GMT; Max-Age=7200; path=/; secure laravel_session=eyJpdiI6IjVmblRQZGJwc3Y1b2hQdU1WZVRYM0E9PSIsInZhbHVlIjoiQ0pTQVBnUHlJRTM5XC9sNnFWcHREcG1ESExqdEZEVEJVRFJSbHNzbjVjVVBzQmFKcHJYbUVMMWFUMWNWRGN3a2giLCJtYWMiOiJhMmUzNTVjNGUwYzE2ODA2OWYyMmNiYWE4ZTM2NzkwYjcxYTk4MjgyNGYyMDdiNGM2NTU5YWI1MTZmNjYyNTE5In0%3D; expires=Sat, 06-Jun-2020 09:35:48 GMT; Max-Age=7200; path=/; secure; httponly bc=eyJpdiI6InBJcHdCTUdnSmFBV2tZV3FjMll3SEE9PSIsInZhbHVlIjoiVXVUcWxpYUdXOTN1MWtkUWxRR25cL0lVbFFKR3ZDcmNkeStEYTVJSTJ4UklDbU5OSHFuSnR1aktndHg2a0hwR2IiLCJtYWMiOiJlNTcwYzEzZWQ5N2ZkOWJmYWY1MDEwZTg5NTIyOTBlYmU4Mjk2YmQxMmE3MTBkNzRmNTQwMDkzOGQ1MTQ1NjczIn0%3D; expires=Sun, 06-Jun-2021 07:35:49 GMT; Max-Age=31536000; path=/; secure; httponly
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;

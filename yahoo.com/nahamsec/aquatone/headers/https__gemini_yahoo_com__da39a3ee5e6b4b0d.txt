@@ -1,0 +1,21 @@
+200 OK
+Content-Security-Policy: report-uri https://csp.yahoo.com/beacon/csp?src=geminiui; frame-ancestors 'self' https://reseller.yahoo.com merchant.gemini.yahoo.com stgmerchant.gemini.yahoo.com stage-oath-transparency.admincms.corp.yahoo.com beta-oath-transparency.admincms.corp.yahoo.com oath-transparency.admincms.corp.yahoo.com stage-transparency.oath.com beta-transparency.oath.com transparency.oath.com https://www.verizonmedia.com https://stage.www.verizonmedia.com https://beta.www.verizonmedia.com; default-src 'self' https://s.yimg.com; style-src 'self' 'unsafe-inline' https://s.yimg.com; script-src 'nonce-+Zjk2SqK2orpeSHZ5FjY6M9bhfLJUK/LDJV5SPt2uaFgBHog' 'self' https://s.yimg.com https://a.analytics.yahoo.com https://us-locdrop.query.yahoo.com https://search.yahoo.com https://*.uservoice.com; font-src https://s.yimg.com data:; img-src 'self' data: blob: https://s.yimg.com http://*.yimg.com https://pclick.internal.yahoo.com https://geo.yahoo.com https://lh.secure.yahoo.com https://*.media.tumblr.com; media-src 'self' https://s.yimg.com https://edgecast-vod.yimg.com https://*.cdn.yimg.com blob:; child-src 'self' https://bs.serving-sys.com https://gemini.7eer.net https://*.fls.doubleclick.net https://player.vimeo.com https://www.tumblr.com https://*.oath.com https://*.verizonmedia.com https://*.uservoice.com https://centinelapistag.cardinalcommerce.com https://centinelapi.cardinalcommerce.com https://s.yimg.com ui.payment.yahoo.com; connect-src https://*.yahoo.com https://*.yahoo.com:4443 https://s.yimg.com https://*.oath.com https://*.verizonmedia.com https://edgecast-vod.yimg.com blob:
+Vary: Accept-Encoding
+Date: Sat, 06 Jun 2020 07:39:00 GMT
+Server: ATS
+Public-Key-Pins-Report-Only: max-age=2592000; pin-sha256="2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY="; pin-sha256="I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o="; pin-sha256="K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q="; pin-sha256="Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw="; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="cGuxAXyFXFkWm61cF4HPWX8S0srS9j0aSqN0k4AP+4A="; pin-sha256="dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A="; pin-sha256="i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc="; includeSubdomains; report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only"
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Strict-Transport-Security: max-age=15552000
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Gemini-Ui-Version: 3.0.389
+X-Request-Id: c973aac0-a7c8-11ea-9fa5-495aa3c9e08a
+Content-Type: text/html; charset=utf-8
+Etag: W/"4c94-XetdoTXDAT6nZ81VFinXUbdy6Uk"
+Age: 0
+X-Content-Type-Options: nosniff
+Set-Cookie: B=c0bkiulfdmi0k&b=3&s=ou; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Referrer-Policy: no-referrer-when-downgrade
+X-Dns-Prefetch-Control: off
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,13 @@
+200 OK
+Set-Cookie: AWSALB=cuKqYvW/PXEII94JjdFhxeL5+qRZnK9rtzDYOpkQTKQg1MuTT/QZTw7mXhCh15tJ6fXdE2f9c+twS2jlPMKAP2R9wC+3iSroXfZ04pxsXZlas9SKVFudD578MUCu; Expires=Sat, 13 Jun 2020 07:37:54 GMT; Path=/ AWSALBCORS=cuKqYvW/PXEII94JjdFhxeL5+qRZnK9rtzDYOpkQTKQg1MuTT/QZTw7mXhCh15tJ6fXdE2f9c+twS2jlPMKAP2R9wC+3iSroXfZ04pxsXZlas9SKVFudD578MUCu; Expires=Sat, 13 Jun 2020 07:37:54 GMT; Path=/; SameSite=None; Secure
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Sat, 06 Jun 2020 07:37:54 GMT
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=300, public
+Retry-Count: 0
+Server: Apache
+Vary: Host,Accept-Encoding
+X-Xss-Protection: 1; mode=block

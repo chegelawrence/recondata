@@ -1,0 +1,17 @@
+200 OK
+Etag: W/"197a3-NJdWmwoStNQzCowt6r0mPQC6saE"
+Set-Cookie: B=63tua1lfdmhun&b=3&s=fl; expires=Sat, 06-Jun-2021 07:37:59 GMT; path=/; domain=.yahoo.com
+Date: Sat, 06 Jun 2020 07:37:59 GMT
+Content-Security-Policy: default-src 'none'; script-src 'self' https://s.yimg.com https://consent.cmp.oath.com https://www.youtube.com/iframe_api https://s.ytimg.com/yts/ https://fc.yahoo.com https://ads.yap.yahoo.com https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/; connect-src 'self' https://ganon.yahoo.com/ https://geo.query.yahoo.com https://geo.yahoo.com/ https://guce.oath.com/ https://guce.yahoo.com https://udc.yahoo.com https://s.yimg.com/zq/ans/frontend/; img-src 'self' data: https://*.yimg.com https://ganon.yahoo.com/ https://geo.yahoo.com https://ws.progrss.yahoo.com https://sb.scorecardresearch.com https://media.gettyimages.com/photos/ https://img.youtube.com/ https://beap-bc.yahoo.com https://ads.yap.yahoo.com https://*.beap.gemini.yahoo.com https://beap.gemini.yahoo.com; style-src 'self' 'unsafe-inline' https://s.yimg.com; font-src 'self' https://s.yimg.com data:; frame-src https://guce.oath.com/ https://www.youtube.com/embed/ https://s.yimg.com/ https://fc.yahoo.com/ https://www.google.com/recaptcha/; child-src 'self'; object-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=answers
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=15552000
+Content-Type: text/html; charset=utf-8
+Server: ATS
+Public-Key-Pins-Report-Only: max-age=2592000; pin-sha256="2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY="; pin-sha256="I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o="; pin-sha256="K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q="; pin-sha256="Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw="; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="cGuxAXyFXFkWm61cF4HPWX8S0srS9j0aSqN0k4AP+4A="; pin-sha256="dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A="; pin-sha256="i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc="; includeSubdomains; report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only"
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

@@ -1,0 +1,20 @@
+200 OK
+Cache-Control: no-store, no-cache, max-age=0, private
+Accept-Ch: device-memory, dpr, width, viewport-width, rtt, downlink, ect
+Accept-Ch-Lifetime: 604800
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:31:58 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Content-Type-Options: nosniff
+X-Envoy-Upstream-Service-Time: 16
+Server: ATS
+Content-Security-Policy: frame-ancestors https://currently.att.yahoo.com https://start.att.net https://test-start.att.net https://test-www.att.net https://www.att.net http://test-start.att.net http://test-www.att.net;
+Strict-Transport-Security: max-age=31536000
+Expires: -1
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=UTF-8
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Set-Cookie: autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=currently.att.yahoo.com B=03daepdfdmhje&b=3&s=26; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Age: 0

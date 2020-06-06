@@ -1,0 +1,20 @@
+404 Not Found
+X-Amz-Cf-Pop: JFK51-C1
+X-Bypass-Ssl-Transform: 1
+X-Content-Type-Options: nosniff
+Server: ATS
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=15552000
+Date: Sat, 06 Jun 2020 07:36:44 GMT
+Age: 289
+Expires: -1
+Cache-Control: max-age=0, private
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/html
+X-Cache: Error from cloudfront
+X-Amz-Cf-Id: xnusfSBpoSbgmp8SzQiMi95cJ24AnRrOD9pyLuMOrqkOQyi6UE1sPg==
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Set-Cookie: B=dh32cj9fdmi5b&b=3&s=v7; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Vary: Accept-Encoding,X-Failsafe-Cache

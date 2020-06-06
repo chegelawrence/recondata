@@ -1,0 +1,21 @@
+200 OK
+Date: Sat, 06 Jun 2020 07:28:36 GMT
+X-Ratelimit-Reset: 1591428738
+X-Powered-By: Next.js
+Etag: "2172-b7ewuF3ezFkWacpeVZ7oAhNPsKs"
+Content-Type: text/html; charset=utf-8
+Server: ATS
+Strict-Transport-Security: max-age=15552000
+X-Xss-Protection: 1; mode=block
+Vary: Accept-Encoding
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Dns-Prefetch-Control: off
+Set-Cookie: ba_cookie=e2dd8c4c-4c68-4fe9-b154-85190094c469; Path=/; Secure; SameSite=None ba_cookie=e2dd8c4c-4c68-4fe9-b154-85190094c469; Path=/; Secure; SameSite=None _csrf=j5TQj238Ak6-W-nXue-rDTMc; Path=/; Secure; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+Content-Security-Policy: frame-ancestors 'self' *.myshopify.com *.ad.com *.yahoo.com
+X-Ratelimit-Limit: 500
+X-Ratelimit-Remaining: 499
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0

@@ -1,0 +1,16 @@
+404 Not Found
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:33:40 GMT
+Age: 2
+X-Content-Type-Options: nosniff
+Server: ATS
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+X-Envoy-Upstream-Service-Time: 1
+Content-Length: 3164
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: B=63t3lh5fdmhmk&b=3&s=k5; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"

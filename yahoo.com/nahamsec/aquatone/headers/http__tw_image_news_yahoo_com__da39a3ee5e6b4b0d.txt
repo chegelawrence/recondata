@@ -1,0 +1,17 @@
+403 Forbidden
+Strict-Transport-Security: max-age=31536000
+X-Amz-Id-2: 8EVmK1yeTJcmScO8xjfI1I5J2+EbXHrxb+lUvl5fGjGx03O/A4K6qFgWDXDYRbNiq0eG/EXCNS8=
+Date: Sat, 06 Jun 2020 07:36:27 GMT
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+X-Amz-Request-Id: 7D1D83E118FCC751
+Content-Type: application/xml
+Age: 4
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Amz-Bucket-Region: ap-northeast-1
+Vary: Origin
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;
+Referrer-Policy: no-referrer-when-downgrade
+Set-Cookie: B=6t6lif5fdmhrr&b=3&s=l8; Max-Age=31557600; Domain=.yahoo.com; Path=/

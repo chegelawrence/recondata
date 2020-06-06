@@ -1,0 +1,14 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;
+X-Powered-By: PHP/7.3.18
+Age: 2
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Retry-Count: 0
+Server: ATS
+X-Xss-Protection: 1; mode=block
+Date: Sat, 06 Jun 2020 07:33:06 GMT
+X-Content-Type-Options: nosniff

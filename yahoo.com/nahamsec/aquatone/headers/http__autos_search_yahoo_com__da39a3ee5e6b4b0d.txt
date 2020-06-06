@@ -1,0 +1,15 @@
+200 OK
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Expires: -1
+Strict-Transport-Security: max-age=31536000
+Date: Sat, 06 Jun 2020 07:32:03 GMT
+X-Xss-Protection: 1; mode=block
+Server: ATS
+X-Envoy-Decorator-Operation: td-app-yahoo--v1-production-bf1.frontpage-k8s-frontend.svc.yahoo.local:4080/*
+Cache-Control: max-age=0, private
+Retry-Count: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/html; charset=utf-8
+Set-Cookie: B=ffas7elfdmhjj&b=3&s=lm; expires=Sat, 06-Jun-2021 07:32:03 GMT; path=/; domain=.yahoo.com
+X-Envoy-Upstream-Service-Time: 96

@@ -1,0 +1,14 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000
+Set-Cookie: B=9ip500dfdmhkm&b=3&s=1f; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Date: Sat, 06 Jun 2020 07:32:38 GMT
+Server: ATS
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

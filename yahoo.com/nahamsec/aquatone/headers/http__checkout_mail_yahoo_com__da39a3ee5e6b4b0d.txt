@@ -1,0 +1,21 @@
+200 
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: checkout.mail.yahoo.com
+Cache-Control: no-cache, no-store
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Max-Age: 3600
+Date: Sat, 06 Jun 2020 07:32:22 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=15552000
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=edge
+Retry-Count: 0
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, X-XSRF-OMP,X-OMP-HEADER
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Content-Type: text/html;charset=UTF-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: ATS

@@ -1,0 +1,16 @@
+200 OK
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Y-Origin: l204.ac.tw1.yahoo.com
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Sat, 06 Jun 2020 07:35:33 GMT
+Set-Cookie: B=5mptmllfdmhq5&b=3&s=9r; expires=Sun, 06-Jun-2021 07:35:33 GMT; path=/; domain=.yahoo.com; secure
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Vary: Accept-Encoding
+Cache-Control: private
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

@@ -1,0 +1,16 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Accept-Encoding
+Server: ATS
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+Date: Sat, 06 Jun 2020 07:35:13 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Set-Cookie: B=amjt6upfdmhpg&b=3&s=s8; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Strict-Transport-Security: max-age=15552000
+Cache-Control: private, no-store, no-cache, max-age=0
+Age: 3
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=sports&region=US&lang=en-US&device=desktop&yrid=1gtp5hlfdmhpg&partner=;

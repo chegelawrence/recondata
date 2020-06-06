@@ -1,0 +1,19 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Date: Sat, 06 Jun 2020 07:37:40 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Envoy-Upstream-Service-Time: 28
+Age: 0
+X-Frame-Options: SAMEORIGIN
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-store, no-cache, must-revalidate, private
+Set-Cookie: tw_ysm_soeasy=d%3D6422403115edb47c4a14011.38922261%26s%3DOhr_DIyzBXZN1ZCRHpav0Q--; path=/ is_c=1; expires=Sat, 06-Jun-2020 08:37:40 GMT; Max-Age=3600; path=/soeasy device=pc; expires=Sat, 06-Jun-2020 08:37:40 GMT; Max-Age=3600; path=/soeasy B=btv14s1fdmhu4&b=3&s=ta; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Content-Type: text/html; charset=UTF-8
+Pragma: no-cache
+Vary: Accept-Encoding
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0

@@ -1,0 +1,17 @@
+404 Not Found
+Content-Type: application/json
+X-Response-Timings: ResponseTime = 2ms | databaseOpTime = 0ms | adwOpTime = 0ms | phxOpTime = 0ms
+Server: ATS
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, PATCH, OPTIONS
+Access-Control-Max-Age: 86400
+Access-Control-Expose-Headers: Response-Time
+Date: Sat, 06 Jun 2020 07:35:18 GMT
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Accept-Encoding, Host, Api-Token, X-Auth-Method, X-HTTP-Method-Override, X-Client-Version, X-Page-Id
+Age: 0
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: Request from invalid origin
+Retry-Count: 0

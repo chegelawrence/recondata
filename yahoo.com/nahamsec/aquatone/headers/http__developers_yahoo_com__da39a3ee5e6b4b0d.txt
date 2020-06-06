@@ -1,0 +1,18 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Etag: W/"c916-pEm7nqpYxqJjFXEvFuBOQMy6Z+o"
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: private, max-age=0, no-cache
+X-Powered-By: Express
+Set-Cookie: ydn-oidc=s%3AJ_llQXL2EQ0SAHu9LkTPphnaay-8I9F1.NHOZ103aMG5CvVOJfLLw%2B7V22bqEnjHavrL%2FAgbk3%2Fk; Path=/; Expires=Sat, 06 Jun 2020 07:34:28 GMT; HttpOnly B=do2elrdfdmhk9&b=3&s=4c; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Date: Sat, 06 Jun 2020 07:32:28 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Length: 51478
+Age: 9
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Strict-Transport-Security: max-age=15552000
+Content-Security-Policy-Report-Only: default-src 'self'; report-uri https://csp.yahoo.com/beacon/csp?src=fendr_developer.yahoo.com

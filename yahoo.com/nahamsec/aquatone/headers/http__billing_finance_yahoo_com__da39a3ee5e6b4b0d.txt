@@ -1,0 +1,17 @@
+404 Not Found
+Content-Type: text/html
+Date: Sat, 06 Jun 2020 07:32:12 GMT
+X-Amz-Cf-Pop: EWR52-C2
+Age: 3
+X-Cache: Error from cloudfront
+X-Amz-Cf-Id: EWtm8R9pbVPizrNJOQYT9UnVei7ajc5mN851TWTKKWCLYznofV9a7A==
+Expires: -1
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Server: ATS
+Cache-Control: no-store, no-cache, private, max-age=0
+Retry-Count: 0
+Vary: Accept-Encoding,X-Failsafe-Cache
+Strict-Transport-Security: max-age=15552000
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff

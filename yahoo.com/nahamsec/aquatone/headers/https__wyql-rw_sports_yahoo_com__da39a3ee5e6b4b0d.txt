@@ -1,0 +1,18 @@
+403 Forbidden
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:31:41 GMT
+Server: ATS
+X-Envoy-Decorator-Operation: fantasy-wallet-yql--mtls-production-bf1.wallet-k8s.svc.yahoo.local:8080/*
+Strict-Transport-Security: max-age=15552000
+Set-Cookie: B=ct04amhfdmhit&b=3&s=7g; expires=Sun, 06-Jun-2021 07:31:41 GMT; path=/; domain=.yahoo.com
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html;charset=utf-8
+Content-Length: 3151
+X-Envoy-Upstream-Service-Time: 3
+Cache-Control: max-age=0, private
+Expires: -1
+Age: 0
+X-Content-Type-Options: nosniff

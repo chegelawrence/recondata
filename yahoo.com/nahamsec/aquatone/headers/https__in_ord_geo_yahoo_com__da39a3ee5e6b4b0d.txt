@@ -1,0 +1,13 @@
+200 OK
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Age: 1
+X-Powered-By: Express
+Set-Cookie: ysbexp=j%3A%7B%22id%22%3A%2282ff3711e85426baa975cec5e5d1291e%22%7D; Max-Age=432000; Path=/; Expires=Thu, 11 Jun 2020 07:40:48 GMT; HttpOnly
+Content-Security-Policy: frame-ancestors *.yahoosmallbusiness.com smallbusiness.yahoo.com luminate.com
+Etag: W/"5e16-625732807"
+Date: Sat, 06 Jun 2020 07:40:48 GMT
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0

@@ -1,0 +1,13 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=120
+X-Ua-Compatible: IE=Edge
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: X-Mapping-okbjfidf=F28D2E65A0FB4EBBED66624EEE8C9588; path=/ JSESSIONID_SS_CBB=416npbHXnFqGTPWJ8YjHf1QnWkSpkyLdTChPng3KphJyrhLdf8d6!-1697801898; domain=.bt.com; path=/; HttpOnly SS_X_JSESSIONID_CSD_CBA=m5vnpbHX2Fb6FKDpT6QW6VL9W7yGH67pwlfJ6nnQT2qqHvh0YnvQ!219556448; path=/ X-Mapping-knlpoeag=293709123DD576F3927B7E1C052C378B; path=/ btsite=1; domain=.bt.com; path=/
+X-Btsite: 1
+X-Llid: 62981410d460b8ba8b684487497c185a
+Date: Sat, 06 Jun 2020 07:38:31 GMT
+X-Xss-Protection: 1; mode=block
+Last-Modified: Sat, 06 Jun 2020 07:38:30 GMT

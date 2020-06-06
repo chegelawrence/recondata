@@ -1,0 +1,10 @@
+403 Forbidden
+X-Amz-Cf-Pop: YTO50-C2
+X-Amz-Cf-Id: zQ7YG9tZK7jg7yKbOwbrVMQdtmmh8gGjUgIGjeH_hM1GwhrXjc7KyA==
+Server: AmazonS3
+Via: 1.1 8087c23e2868fe888ce1d81522a0d9e2.cloudfront.net (CloudFront)
+Retry-Count: 0
+Content-Type: application/xml
+X-Amz-Bucket-Region: us-west-1
+Date: Sat, 06 Jun 2020 07:31:58 GMT
+X-Cache: Error from cloudfront

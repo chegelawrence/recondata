@@ -1,0 +1,16 @@
+200 OK
+Age: 0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Omg-Env: norrin-green--production-ne1-7c77b5bfc8-nzldx
+Etag: W/"2dc8-xYOoEfsAsTFWGyr1TtjEeIGQfb8"
+Vary: Accept-Encoding
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Strict-Transport-Security: max-age=15552000
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Server: ATS
+Referrer-Policy: origin-when-cross-origin
+Content-Security-Policy: child-src blob:;connect-src 'self' https://*.yimg.com https://*.yahoo.com https://edgecast-vod.yahoo.net/ https://assets.video.yahoo.net/ https://s.yimg.com/nq/ads/mb/native/* https://service.cmp.oath.com https://www.yahoo.com/p.gif https://smetrics.att.com/id https://dpm.demdex.net/id;default-src 'self';font-src https: data:;frame-src https://*.yahoo.com https://*.yimg.com https://*.ymail.com https://6518610.fls.doubleclick.net/ https://6589630.fls.doubleclick.net/ https://8523621.fls.doubleclick.net/ https://delivery.vidible.tv/ https://secure.bannerfarm.ace.advertising.com https://cmp.advertising.com;img-src data: blob: http: https:;media-src blob: https://*.yahoo.com https://*.yimg.com;report-uri https://csp.yahoo.com/beacon/csp?src=mail-norrin;script-src 'self' https://s.yimg.com/nq/nr/ https://s.yimg.com/os/yaft/ https://s.yimg.com/ss/ https://s.yimg.com/aaq/yc/ https://s.yimg.com/rq/darla/ https://fc.yahoo.com/sdarla/ https://e2e.fc.yahoo.com/sdarla/ https://www.yahoo.com/polyfill.min.js https://yep.video.yahoo.com/js/ https://s.yimg.com/rx/ https://www.gstatic.com/cv/js/sender/v1/cast_sender.js https://cdn-ssl.vidible.tv/prod/player/js/ https://yep.video.yahoo.com/ https://assets.video.yahoo.net/ https://jsapi.login.yahoo.com/w/ https://s.yimg.com/cv/apiv2/partner-portals/att/adobe_analytics/ https://consent.cmp.oath.com/ https://s.yimg.com/oa/ https://s.yimg.com/uc/sf/ https://s.yimg.com/aaq/ 'sha256-lRMQ2lQozgbWLOqNJOrnclJXX6G77pQVIlF8SAI3++I=' 'unsafe-inline' 'unsafe-eval' 'report-sample' 'nonce-iNc7W37Mr3Qc+aLDqDpVzqb4TMSS4QtCFSQC9OoHvyy1UjfR' ;style-src 'self' https://s.yimg.com/nq/nr/ https://s.yimg.com/rx/ https://assets.video.yahoo.net/ https://s.yimg.com/aaq/fp/ 'unsafe-inline';worker-src 'self';manifest-src https://s.yimg.com/nq/nr/json/
+Date: Sat, 06 Jun 2020 07:41:15 GMT

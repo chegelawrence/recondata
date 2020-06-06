@@ -1,0 +1,17 @@
+200 OK
+Age: 2
+Retry-Count: 0
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+Set-Cookie: B=0kf4uvhfdmhs0&b=3&s=3r; Max-Age=31557600; Domain=.yahoo.com; Path=/
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer-when-downgrade
+Date: Sat, 06 Jun 2020 07:36:33 GMT
+Image_inliner_base64: false
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Server: ATS
+Expect-Ct: max-age=31536000, enforce
+Image_inliner_enable: false
+X-Frame-Options: DENY

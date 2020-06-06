@@ -1,0 +1,12 @@
+204 
+X-Content-Type-Options: nosniff
+Server: ATS
+Cache-Control: private, no-store, no-cache, must-revalidate
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Date: Sat, 06 Jun 2020 07:28:16 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+Strict-Transport-Security: max-age=15552000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

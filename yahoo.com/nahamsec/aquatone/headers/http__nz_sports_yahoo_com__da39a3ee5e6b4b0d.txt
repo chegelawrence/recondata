@@ -1,0 +1,16 @@
+200 OK
+Age: 0
+Retry-Count: 0
+Cache-Control: max-age=0, private
+Expires: -1
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-nz-news"
+Server: ATS
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=NZ&lang=en-NZ&device=desktop&yrid=chijmq9fdmhot&partner=;
+Set-Cookie: B=ddan2e9fdmhot&b=3&s=h8; Max-Age=31557600; Domain=.yahoo.com; Path=/ B=ddan2e9fdmhot&b=3&s=h8; expires=Sun, 06-Jun-2021 07:34:53 GMT; path=/; domain=.yahoo.com
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Date: Sat, 06 Jun 2020 07:34:53 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding

@@ -1,0 +1,11 @@
+403 Forbidden
+X-Xss-Protection: 1; mode=block
+Age: 0
+Set-Cookie: A1=d=AQABBIRG214CEDhDk26wD1CpLLNy_NGyf1oFEgEBAQGY3F7lXgAAAAAA_SMAAA&S=AQAAAVaklAnPvHLH4tcfUVlGSbM; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure; HttpOnly A3=d=AQABBIRG214CEDhDk26wD1CpLLNy_NGyf1oFEgEBAQGY3F7lXgAAAAAA_SMAAA&S=AQAAAVaklAnPvHLH4tcfUVlGSbM; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly A1S=d=AQABBIRG214CEDhDk26wD1CpLLNy_NGyf1oFEgEBAQGY3F7lXgAAAAAA_SMAAA&S=AQAAAVaklAnPvHLH4tcfUVlGSbM&j=US; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure B=5kvtiq5fdmhk4&b=3&s=1a; Max-Age=31557600; Domain=.yahoo.com; Path=/ GUC=AQEBAQFe3Jhe5UIiVgTY; Max-Age=31557600; Domain=.yahoo.com; Path=/; Secure
+Date: Sat, 06 Jun 2020 07:32:20 GMT
+Strict-Transport-Security: max-age=15552000
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/plain
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Server: ATS

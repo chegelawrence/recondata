@@ -1,0 +1,19 @@
+200 OK
+Server: ATS
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:35:10 GMT
+Set-Cookie: B=b0duh8lfdmhpe&b=3&s=nq; expires=Sun, 06-Jun-2021 07:35:10 GMT; path=/; domain=.yahoo.com; secure
+Image_inliner_enable: false
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Age: 0
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Vary: Accept-Encoding
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=15552000
+Expect-Ct: max-age=31536000, enforce
+Referrer-Policy: no-referrer-when-downgrade
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Image_inliner_base64: false
+Content-Security-Policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-RBz7CSNJPHXWQu9sSZTDSw==' 'unsafe-eval' https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://*.yimg.com; img-src 'self' data: https://*.bing.net https://*.yimg.com yahoo.com https://*.yahoo.com https://*.bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com; frame-src 'self' https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com; media-src * blob:; object-src *; connect-src *; font-src * data:;

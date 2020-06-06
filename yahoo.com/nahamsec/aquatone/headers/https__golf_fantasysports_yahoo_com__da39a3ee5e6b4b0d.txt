@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000
+Server: ATS
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Age: 4
+Date: Sat, 06 Jun 2020 07:39:01 GMT
+Set-Cookie: B=86s604lfdmi0k&b=3&s=ub; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Vary: Accept-Encoding

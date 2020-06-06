@@ -1,0 +1,20 @@
+200 OK
+X-Envoy-Decorator-Operation: arcade--production-gq1.frontpage-k8s-frontend.svc.yahoo.local:80/*
+Strict-Transport-Security: max-age=31536000
+X-Envoy-Upstream-Service-Time: 16
+X-Xss-Protection: 1; mode=block
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Expires: -1
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=hk.yahoo.com B=3pm9v0pfdmhlg&b=3&s=rm; Max-Age=31557600; Domain=.yahoo.com; Path=/ B=3pm9v0pfdmhlg&b=3&s=rm; expires=Sun, 06-Jun-2021 07:33:04 GMT; path=/; domain=.yahoo.com
+Accept-Ch-Lifetime: 604800
+X-Content-Type-Options: nosniff
+Age: 0
+Cache-Control: no-store, no-cache, max-age=0, private
+Accept-Ch: device-memory, dpr, width, viewport-width, rtt, downlink, ect
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=HK&lang=zh-Hant-HK&device=desktop&yrid=9jifhqdfdmhlg&partner=; frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com htts://*.verizonmedia.com https://*.publishing.oath.com
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Date: Sat, 06 Jun 2020 07:33:04 GMT
+Content-Type: text/html; charset=UTF-8

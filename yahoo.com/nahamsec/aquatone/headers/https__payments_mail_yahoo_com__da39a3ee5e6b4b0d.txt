@@ -1,0 +1,15 @@
+200 OK
+Date: Sat, 06 Jun 2020 07:41:23 GMT
+Age: 0
+Referrer-Policy: strict-origin-when-cross-origin
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: deny
+Content-Type: text/html
+Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/ https://centinelapistag.cardinalcommerce.com https://centinelapi.cardinalcommerce.com https://www.googletagmanager.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.6/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.6/ompwidget.min.js 'nonce-kurszWOHqrCik9qcxaIG6wZytdHK/5eo7XZmVo1TkKGokaUL' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'
+X-Powered-By: Express
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+X-Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/ https://centinelapistag.cardinalcommerce.com https://centinelapi.cardinalcommerce.com https://www.googletagmanager.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.6/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.6/ompwidget.min.js 'nonce-kurszWOHqrCik9qcxaIG6wZytdHK/5eo7XZmVo1TkKGokaUL' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0

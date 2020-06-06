@@ -1,0 +1,20 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+X-Tumblr-User: yahooadvertisingme
+X-Ua-Compatible: IE=Edge,chrome=1
+Retry-Count: 0
+X-Tumblr-Pixel: 1
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=15552001
+X-Tumblr-Pixel-0: https://px.srvcs.tumblr.com/impixu?T=1591429275&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3lhaG9vYWR2ZXJ0aXNpbmdtZS50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyJ9&U=FOOMNOLEJN&K=d3ad95dd432a7558950cf16b34c03cd59cb39bf240a98bc8cc5e598a44d73e08
+Link: <https://assets.tumblr.com/images/default_avatar/octahedron_closed_128.png>; rel=icon
+Server: openresty
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding X-UA-Device, Accept, Accept-Encoding
+P3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+X-Robots-Tag: noindex, nofollow
+Set-Cookie: pfg=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.tumblr.com; secure; HttpOnly
+X-Ua-Device: desktop
+Date: Sat, 06 Jun 2020 07:41:15 GMT
+X-Rid: 785865cb62fc856056df3e1792fcd7aa
+X-Content-Type-Options: nosniff

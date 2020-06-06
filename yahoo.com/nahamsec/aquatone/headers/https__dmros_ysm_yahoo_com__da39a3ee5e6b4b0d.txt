@@ -1,0 +1,16 @@
+200 OK
+Server: ATS
+Etag: "0-5a1d9a56e55c0"
+Cache-Control: no-store, private
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:38:53 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html
+Strict-Transport-Security: max-age=15552000
+Last-Modified: Fri, 27 Mar 2020 17:43:59 GMT
+Content-Length: 0
+Age: 0
+Accept-Ranges: bytes

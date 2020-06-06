@@ -1,0 +1,18 @@
+200 OK
+Retry-Count: 0
+X-Webkit-Csp: child-src 'self' https://b2b.verizonmedia.com https://pages.oath.com https://www.youtube.com https://pages.verizonmedia.com https://delivery.vidible.tv; frame-ancestors 'self' https://b2b.verizonmedia.com
+Content-Length: 7411
+Date: Sat, 06 Jun 2020 07:31:46 GMT
+Content-Security-Policy: child-src 'self' https://b2b.verizonmedia.com https://pages.oath.com https://www.youtube.com https://pages.verizonmedia.com https://delivery.vidible.tv; frame-ancestors 'self' https://b2b.verizonmedia.com
+X-Content-Security-Policy: child-src 'self' https://b2b.verizonmedia.com https://pages.oath.com https://www.youtube.com https://pages.verizonmedia.com https://delivery.vidible.tv; frame-ancestors 'self' https://b2b.verizonmedia.com
+X-Eid: r:us-east-2,ph:7b9799cd55-z6mrk
+Age: 0
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Vary: Origin
+X-Xss-Protection: 1; mode=block
+Etag: W/"1cf3-3Bi3EV5WtZvzjQI/VKgycy6IYdo"
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html; charset=utf-8

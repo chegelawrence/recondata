@@ -1,0 +1,19 @@
+200 OK
+X-Envoy-Upstream-Service-Time: 355
+Server: ATS
+Age: 0
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:38:11 GMT
+Expires: -1
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html; charset=utf-8
+Set-Cookie: B=8kfphldfdmhv3&b=3&s=o0; expires=Sat, 06-Jun-2021 07:38:11 GMT; path=/; domain=.yahoo.com
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=0, private
+X-Xss-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-au-sp"
+Vary: Accept-Encoding
+X-Envoy-Decorator-Operation: td-app-yahoo--v1-production-ne1.frontpage-k8s-frontend.svc.yahoo.local:4080/*
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=sports&region=AU&lang=en-AU&device=desktop&yrid=dn0d9uhfdmhv3&partner=;

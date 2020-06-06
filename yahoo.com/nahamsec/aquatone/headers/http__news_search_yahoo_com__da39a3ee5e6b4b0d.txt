@@ -1,0 +1,16 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+Date: Sat, 06 Jun 2020 05:59:36 GMT
+Cache-Control: max-age=0, private
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=US&lang=en-US&device=desktop&yrid=4f79u91fdmhop&partner=;
+Retry-Count: 0
+Server: ATS
+Expires: -1
+Set-Cookie: B=6fr1btdfdmhop&b=3&s=00; expires=Sun, 06-Jun-2021 07:34:49 GMT; path=/; domain=.yahoo.com
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml, CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV
+Warning: 110 Response is stale
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

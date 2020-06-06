@@ -1,0 +1,19 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html; charset=utf-8
+X-Envoy-Decorator-Operation: td-app-yahoo--v1-production-ne1.frontpage-k8s-frontend.svc.yahoo.local:4080/*
+Age: 0
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=sports&region=AU&lang=en-AU&device=desktop&yrid=0tc1ta9fdmhjf&partner=;
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-au-sp"
+Vary: Accept-Encoding
+X-Envoy-Upstream-Service-Time: 284
+Cache-Control: max-age=0, private
+Expires: -1
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+Set-Cookie: B=c6s2oe9fdmhjf&b=3&s=sb; expires=Sat, 06-Jun-2021 07:31:59 GMT; path=/; domain=.yahoo.com
+Date: Sat, 06 Jun 2020 07:31:59 GMT
+Server: ATS

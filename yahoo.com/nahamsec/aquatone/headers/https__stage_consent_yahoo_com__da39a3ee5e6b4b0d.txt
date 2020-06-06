@@ -1,0 +1,14 @@
+404 Not Found
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: 0
+Server: guce
+Referrer-Policy: origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Type: text/html;charset=UTF-8
+Retry-Count: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Security-Policy-Report-Only: default-src 'none'; block-all-mixed-content; connect-src https://*.huffingtonpost.co.uk https://*.huffingtonpost.com 'self'; frame-ancestors 'none'; img-src https://s.yimg.com https://oath-aws-guce-fe-dev.s3.amazonaws.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; media-src 'none'; script-src 'self' 'nonce-pmP8fzXFXCdhP4l24oe1DDMCl6vXTzVJ' https://s.yimg.com https://oath-aws-guce-fe-dev.s3.amazonaws.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; style-src 'self' 'nonce-pmP8fzXFXCdhP4l24oe1DDMCl6vXTzVJ' https://s.yimg.com https://oath-aws-guce-fe-dev.s3.amazonaws.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; font-src 'self'; object-src 'none'; frame-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=guce
+Date: Sat, 06 Jun 2020 07:28:33 GMT

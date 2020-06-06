@@ -1,0 +1,19 @@
+200 OK
+Content-Type: text/html
+Vary: Origin, Accept-Encoding
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Amz-Id-2: iAw8bVvIE9KI3Pan83Og86VtlLE+dXOoUb6qp1wmu7nbhaGk/kMk56IvIsyvND+3I3EKHOyg1Oc=
+Date: Sat, 06 Jun 2020 07:38:10 GMT
+Age: 0
+X-Amz-Server-Side-Encryption: AES256
+Accept-Ranges: bytes
+Cache-Control: public,max-age=60
+Retry-Count: 0
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Etag: "e38d7cf533d32f62e782470a38b12e9c-df"
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+X-Amz-Request-Id: 9B55D5BAEBCC6755
+Last-Modified: Mon, 23 Mar 2020 16:51:19 GMT

@@ -1,0 +1,20 @@
+404 Not Found
+X-Cache: Error from cloudfront
+X-Amz-Cf-Pop: JFK51-C1
+Expires: -1
+Server: ATS
+X-Amz-Cf-Id: HLJbVhCzkLXh-ZajlHq4rDL-RpyZh0JFr0N7FOF38KX1UEY8E895Gg==
+Retry-Count: 0
+Age: 4
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Strict-Transport-Security: max-age=15552000
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Set-Cookie: B=6245gnlfdmhsb&b=3&s=h7; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Content-Type: text/html
+Date: Sat, 06 Jun 2020 07:36:44 GMT
+Vary: Accept-Encoding,X-Failsafe-Cache
+X-Bypass-Ssl-Transform: 1
+Cache-Control: max-age=0, private
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

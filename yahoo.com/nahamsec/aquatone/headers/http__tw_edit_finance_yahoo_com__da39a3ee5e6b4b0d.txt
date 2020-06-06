@@ -1,0 +1,10 @@
+403 Forbidden
+Date: Sat, 06 Jun 2020 07:36:14 GMT
+Retry-Count: 0
+Content-Language: en
+Location: https://tw.edit.finance.yahoo.com/
+Content-Length: 15
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Set-Cookie: B=9v4b3t9fdmhre&b=3&s=tu; expires=Sun, 06-Jun-2021 07:36:14 GMT; path=/; domain=.yahoo.com

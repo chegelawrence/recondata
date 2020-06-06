@@ -1,0 +1,16 @@
+200 OK
+X-Content-Type-Options: nosniff
+Etag: W/"698-nZyeJrgCACcH7jiApYWGx7ULWa0"
+Set-Cookie: B=33ifoe5fdmhco&b=3&s=d0; expires=Sat, 06-Jun-2021 07:28:24 GMT; path=/; domain=.yahoo.com
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: script-src 'self' 'unsafe-inline'; style-src 'self' https://s.yimg.com/pn/yp/; img-src 'self' https://s.yimg.com/pn/yp/; frame-ancestors https://stagingkoala.ui.payment.yahoo.com https://*.aol.com http://*.aol.com:3000 https://*.ouroath.com https://*.yahoo.com:8002 https://*.yahoo.com http://127.0.0.1:3000 http://127.0.0.1:80 http://localhost:3000 http://localhost:80 https://sandbox.ui.payment.yahoo.com https://*.mail.gq1.yahoo.com https://dffe-stage.media.yahoo.com:4443 https://dffe-stage-k8s.media.yahoo.com:4443 https://stage-payments.mail.yahoo.com https://stage-invpay01-os.corpapps.corp.gq1.yahoo.com https://beta-invpay01-os.corpapps.corp.gq1.yahoo.com https://beta-invpay02-os.corpapps.corp.gq1.yahoo.com https://fan-stage-bf1.sports.yahoo.com https://fan2-int-trunk-bf1.sports.yahoo.com https://fan3-stage-bf1.sports.yahoo.com http://ip-10-97-17-103.obi.nva.ec2.aol.com:3000 https://sfink-bps.sb.dev.obi.aol.com https://stgmerchant.gemini.yahoo.com https://development-checkout.ec.yahoo.com https://staging-checkout.ec.yahoo.com https://canary-checkout.ec.yahoo.com https://development-checkout.paas.ec.yahoo.com:4443 https://staging-checkout.paas.ec.yahoo.com:4443 https://canary-checkout.paas.ec.yahoo.com:4443 https://td-fantasy-stage.media.yahoo.com:4443 https://td-fantasy-trunk.media.yahoo.com:4443 https://stgpayment.ad.yahoo.com https://thriveswives.corp.gq1.yahoo.com:4443 https://koalapub.ui.payment.yahoo.com https://console-cd.vespa.oath.cloud https://demo-ui.payments-aws-services-dev.aws.oath.cloud https://search-ui.payments-aws-services-dev.aws.oath.cloud https://demo-ui.payments-aws-services-stg.aws.oath.cloud https://search-ui.payments-aws-services-stg.aws.oath.cloud https://search-ui.payments-aws-services-prod.aws.oath.cloud https://stage.searchads.payments.yahoo.com https://dev.searchads.payments.yahoo.com https://stg.ad.com https://localhost:8443 https://localhost:3333
+Date: Sat, 06 Jun 2020 07:28:24 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Age: 0
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

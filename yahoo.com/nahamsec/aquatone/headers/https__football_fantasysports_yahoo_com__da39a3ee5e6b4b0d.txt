@@ -1,0 +1,17 @@
+200 OK
+Date: Sat, 06 Jun 2020 07:38:58 GMT
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-modals allow-presentation;
+Referrer-Policy: strict-origin-when-cross-origin
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Server: ATS
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Y-PATH,COOKIE,Accept-Encoding
+Age: 0
+Set-Cookie: B=a8u154tfdmi0i&b=3&s=2s; expires=Sun, 06-Jun-2021 07:38:58 GMT; path=/; domain=.yahoo.com
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+X-Yahoo-Request-Id: 5s79469fdmi0i
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+X-Xss-Protection: 1; mode=block

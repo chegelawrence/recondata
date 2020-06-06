@@ -1,0 +1,18 @@
+404 Not Found
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Server: ATS
+Content-Security-Policy: sandbox allow-downloads allow-forms allow-modals allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation;
+Content-Type: text/html; charset=utf-8
+Date: Sat, 06 Jun 2020 07:32:32 GMT
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block
+Expires: -1
+Etag: W/"58-a8ShlMs6rZpUsOavRanBYloZ70c"
+Age: 0
+Cache-Control: max-age=0, private
+Content-Length: 658
+Set-Cookie: B=65gsb31fdmhkg&b=3&s=hh; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Retry-Count: 0

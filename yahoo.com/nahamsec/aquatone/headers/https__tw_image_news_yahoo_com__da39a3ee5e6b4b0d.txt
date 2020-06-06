@@ -1,0 +1,20 @@
+403 Forbidden
+X-Amz-Request-Id: 2D479834B2D3A653
+X-Amz-Id-2: EBLa8cJt4j3QoY7X/9UCFbWl97/L4cypwRfbDJ3X6nvn4W7bqmBOxJgMLm0iUnqUjST775g4jmE=
+Date: Sat, 06 Jun 2020 07:26:22 GMT
+Strict-Transport-Security: max-age=31536000
+Expires: Sat, 06 Jun 2020 07:31:22 GMT
+Age: 193
+Content-Length: 243
+X-Xss-Protection: 1; mode=block
+Set-Cookie: B=dv2ubklfdmhev&b=3&s=1v; Max-Age=31557600; Domain=.yahoo.com; Path=/ B=dv2ubklfdmhev&b=3&s=1v; expires=Sun, 06-Jun-2021 07:29:35 GMT; path=/; domain=.yahoo.com
+Content-Type: application/xml
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Origin
+Ats-Carp-Promotion: 1
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+X-Amz-Bucket-Region: ap-northeast-1
+Server: ATS
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;

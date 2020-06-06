@@ -1,0 +1,21 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=15552001
+X-Tumblr-Pixel: 3
+Link: <https://assets.tumblr.com/images/default_avatar/pyramid_open_128.png>; rel=icon
+Server: openresty
+X-Tumblr-Pixel-2: xvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQxMDA3OTU1MTMzIiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQwNzc2OTMwNDA4IiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9XX0=&U=OFNFJHDPJC&K=25020691db7f2edbeb1564c450132e688b2f8f99eca8ec46d7a649183e3f6c5c
+Date: Sat, 06 Jun 2020 07:39:16 GMT
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Tumblr-Pixel-1: cG9zdGlkIjoiMTU0NjY1NzYzNjMzIiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTU0MzY4ODg1Mzc4IiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTUxNjQzNjQwMDk4IiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTUwNzU1MTA4NDY4IiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQ5MDI0NzI0ODY4IiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQ1MjM4MzA0NzMzIiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQxNDEzMzMxNzA4IiwiYm
+Retry-Count: 0
+X-Ua-Device: desktop
+Vary: Accept-Encoding X-UA-Device, Accept, Accept-Encoding
+X-Rid: 7799b6071a17be8a103a1309bb749147
+P3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+X-Tumblr-User: charity-yahoohk
+X-Tumblr-Pixel-0: https://px.srvcs.tumblr.com/impixu?T=1591429156&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2NoYXJpdHkteWFob29oay50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyJ9&U=GCKEHAOFEP&K=ab891c5a4642b6fc3e522c2c54e89014b218bd4732483eea917752b4e7a75719--https://px.srvcs.tumblr.com/impixu?T=1591429156&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9jaGFyaXR5LXlhaG9vaGsudHVtYmxyLmNvbS8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii8iLCJwb3N0cyI6W3sicG9zdGlkIjoiMTU2NjYzNDc3MDA4IiwiYmxvZ2lkIjoyNDIzOTY1ODgsInNvdXJjZSI6MzN9LHsi
+Set-Cookie: pfg=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.tumblr.com; secure; HttpOnly
+X-Ua-Compatible: IE=Edge,chrome=1
+Accept-Ranges: bytes

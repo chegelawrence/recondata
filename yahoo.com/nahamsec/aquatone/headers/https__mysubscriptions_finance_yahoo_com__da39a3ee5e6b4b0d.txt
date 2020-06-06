@@ -1,0 +1,17 @@
+200 OK
+Age: 0
+Cache-Control: no-store, no-cache, must-revalidate
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy-Report-Only: child-src 'self' https://login.yahoo.net https://s.yimg.com https://s1.yimg.com;connect-src 'self' https://geo.yahoo.com https://pr.comet.yahoo.com https://ws.progrss.yahoo.com https://udc.yahoo.com;default-src 'self' https://s.yimg.com https://s1.yimg.com https://login.yahoo.net;font-src https://s.yimg.com https://s1.yimg.com;frame-src 'self' https://login.yahoo.net https://s.yimg.com https://s1.yimg.com;img-src 'self' data: https://yahoo.com https://ct.yimg.com https://s.yimg.com https://s1.yimg.com https://tw.yimg.com https://geo.yahoo.com https://socialprofiles.zenfs.com https://*.wc.yahoodns.net https://beap-bc.yahoo.com https://ws.progrss.yahoo.com https://log.fc.yahoo.com https://backyard.yahoo.com https://*.ah.yahoo.com https://pr-bh.ybp.yahoo.com https://fbcdn.net https://scontent.xx.fbcdn.net https://z-m-scontent.xx.fbcdn.net https://graph.facebook.com https://data.mail.yahoo.com https://sb.scorecardresearch.com;media-src https://*.ah.yahoo.com;report-uri https://csp.yahoo.com/beacon/csp?src=mbr_account;script-src 'unsafe-inline' 'self' https://s.yimg.com https://s1.yimg.com https://query.yahoo.com https://*.query.yahoo.com https://y.analytics.yahoo.com https://jsapi.login.yahoo.com https://fc.yahoo.com https://pr.comet.yahoo.com 'nonce-yA3apgMIwid9RGLrhkFtiAEJrrLz7Us4A4ynAWN3lprnhyRi' ;style-src * 'unsafe-inline'
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+Retry-Count: 0
+Server: ATS
+X-Frame-Options: DENY
+Expires: 0
+Referrer-Policy: origin-when-cross-origin
+Set-Cookie: AS=v=1&s=pNREgQlA&d=A5edc9a1d|fZ1kUxP.2Sq8KoAwbq1yGxuM_nMwP2zAC.zVtmh3pLrcV.DDi1Y4l2qOoogesxIYvNgqOQU59PwJmzbrrf23GOHxayIfGEiUsLtPU85mRzxDDvxfSZjrHXDRtll8OXVS4PCClbDBLOWTg_1wrTyPP9w8JPHsEp2sqhAkxvi_Pj_ERu6rfiWWoLoXTnag6BrteN8Ni2SKdMl5Kx8d.Luc30WEYvmc.xHa._oKysHbB.4y0u3f0RQxBwYwpKOXgmmDo7mgBuTmxU9s8HvLhb07W3TkwHs6i6oLLCXOoMwN3qFvrmzs.q2XV8DNNZzS70ypKIRmHPi3ETaxJ.e7pWknC_DTlj4mBqqAMWidJkqJK0ZTCFATLIuxOcIHs456o5.g97GPWohjucLcal_sEOpglHQ_qPGwXQ.zzSus1RlQudfSFfrBQeIC4nQfzDMSPCu.kZgxetH0vee37If9LzJ60I8BIa8zJxjzodGKpU9m8bQFphAEBgr4a4AXMzgaO24k0mWAK6apKSPi_L8kZSgHIoAwgi6BvQxZzMoWAdkoQx7VmNmY79_djm.ZwWJc8cdMsmeu30Kku_qWig40vK4iT1NmmP6p.jNwZSfm_ZTbREMTNX1wFMnH9xJ3m0Rdyrv6a.gW4OF3viznoJlGGTJXnvGA1Vrg6ZVMsIeHzC8pjzJKODQe.9Ct40wsg06O2aCaO0IFuFj6p_QX8kZPBK3F5ffYX6D5pleG_xY0fIBb92DOcndrrGrrKBYLrk5ZnpBRMzMi9TY47jTyLXzTRrQgm3nKpgyj~A; path=/; domain=login.yahoo.com; secure; HttpOnly A1=d=AQABBJ1I214CEE4me2H6b-VeLVy4Yrn55IQFEgEBAQGa3F7lXgAAAAAA_SMAAAcInUjbXrn55IQ&S=AQAAAmaeGNSwDIpERMQ4jbm725U; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure; HttpOnly A3=d=AQABBJ1I214CEE4me2H6b-VeLVy4Yrn55IQFEgEBAQGa3F7lXgAAAAAA_SMAAAcInUjbXrn55IQ&S=AQAAAmaeGNSwDIpERMQ4jbm725U; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly A1S=d=AQABBJ1I214CEE4me2H6b-VeLVy4Yrn55IQFEgEBAQGa3F7lXgAAAAAA_SMAAAcInUjbXrn55IQ&S=AQAAAmaeGNSwDIpERMQ4jbm725U&j=US; Domain=.yahoo.com; Path=/; SameSite=Lax; Secure B=89p7pn5fdmi4t&b=3&s=me; Max-Age=31557600; Domain=.yahoo.com; Path=/ GUC=AQEBAQFe3Jpe5UIdfQR0; Max-Age=31557600; Domain=.yahoo.com; Path=/; Secure
+Date: Sat, 06 Jun 2020 07:41:17 GMT
+Strict-Transport-Security: max-age=15552000

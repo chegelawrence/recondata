@@ -1,0 +1,14 @@
+403 Forbidden
+Server: ATS
+Content-Type: text/html
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+Retry-Count: 0
+Strict-Transport-Security: max-age=15552000
+Date: Sat, 06 Jun 2020 07:34:56 GMT
+Cache-Control: no-store
+Content-Language: en
+Content-Length: 207
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,20 @@
+404 Not Found
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html
+Date: Sat, 06 Jun 2020 07:30:01 GMT
+Vary: Accept-Encoding, X-Failsafe-Cache
+X-Cache: Error from cloudfront
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml, CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://tw.discount.yahoo.net;
+X-Amz-Cf-Pop: JFK51-C1
+Age: 0
+Expires: -1
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Server: ATS
+X-Amz-Cf-Id: FK7RUFnJhZc5M5GtslfaAMrgRmGY-s2lAu9jUp_nHLgBFMnO4Ujs2A==
+Strict-Transport-Security: max-age=31536000
+Cache-Control: max-age=0, private
+Set-Cookie: B=a652o4hfdmhfp&b=3&s=n7; Max-Age=31557600; Domain=.yahoo.com; Path=/ B=a652o4hfdmhfp&b=3&s=n7; expires=Sun, 06-Jun-2021 07:30:01 GMT; path=/; domain=.yahoo.com
+Retry-Count: 0

@@ -1,0 +1,17 @@
+200 OK
+Server: ATS
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-AOtNlhrCrH5NJM9N8Vv8EQ==' 'unsafe-eval' https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://*.yimg.com; img-src 'self' data: https://*.bing.net https://*.yimg.com yahoo.com https://*.yahoo.com https://*.bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com; frame-src 'self' https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com; media-src * blob:; object-src *; connect-src *; font-src * data:;
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Set-Cookie: B=57341r9fdmhuh&b=3&s=78; expires=Sun, 06-Jun-2021 07:37:53 GMT; path=/; domain=.yahoo.com; secure
+X-Frame-Options: DENY
+Cache-Control: private
+X-Content-Type-Options: nosniff
+Image_inliner_enable: false
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Image_inliner_base64: false
+Vary: Accept-Encoding
+Age: 0
+Date: Sat, 06 Jun 2020 07:37:53 GMT

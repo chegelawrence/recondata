@@ -1,0 +1,19 @@
+200 OK
+Date: Sat, 06 Jun 2020 07:38:07 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: B=7vgdmihfdmhuv&b=3&s=av; expires=Sun, 06-Jun-2021 07:38:07 GMT; path=/; domain=.yahoo.com; secure
+Content-Security-Policy: frame-ancestors 'none'; default-src 'self' https://*.yahoo.com https://*.yimg.com; script-src 'self' 'unsafe-inline' 'nonce-RE2f+ZePyKsvzVvsuNH2uA==' 'unsafe-eval' https://*.yahoo.com https://*.yimg.com https://*.uservoice.com *.oath.com *.yahooapis.com blob:; style-src 'self' 'unsafe-inline' https://*.yimg.com; img-src 'self' data: https://*.bing.net https://*.yimg.com yahoo.com https://*.yahoo.com https://*.bing.com *.here.com *.wc.yahoodns.net https://*.doubleclick.net https://sb.scorecardresearch.com; frame-src 'self' https://*.youtube.com https://s.yimg.com https://*.yahoo.com https://yahoo.uservoice.com; media-src * blob:; object-src *; connect-src *; font-src * data:;
+Cache-Control: private
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: DENY
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Image_inliner_enable: false
+Vary: Accept-Encoding
+Age: 0
+Image_inliner_base64: false
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, enforce

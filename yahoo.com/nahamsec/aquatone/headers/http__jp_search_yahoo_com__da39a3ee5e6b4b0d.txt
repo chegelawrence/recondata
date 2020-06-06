@@ -1,0 +1,10 @@
+200 OK
+Via: http/1.1 edge1437.img.bbt.yahoo.co.jp (ApacheTrafficServer [c sSf ])
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:34:19 GMT
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Age: 0
+Server: ATS
+P3p: policyref="http://privacy.yahoo.co.jp/w3c/p3p_jp.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"

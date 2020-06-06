@@ -1,0 +1,14 @@
+403 Forbidden
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Length: 3133
+Date: Sat, 06 Jun 2020 07:29:47 GMT
+Age: 0
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Content-Type: text/html;charset=utf-8
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: DENY

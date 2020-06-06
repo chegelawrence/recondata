@@ -1,0 +1,16 @@
+401 Unauthorized
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Security-Policy-Report-Only: default-src 'self'; report-uri https://csp.yahoo.com/beacon/csp?src=fendr_preview.developer.yahoo.com
+Age: 0
+X-Xss-Protection: 1; mode=block
+Date: Sat, 06 Jun 2020 07:41:26 GMT
+Public-Key-Pins-Report-Only: max-age=2592000; pin-sha256="2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY="; pin-sha256="I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o="; pin-sha256="K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q="; pin-sha256="Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw="; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="cGuxAXyFXFkWm61cF4HPWX8S0srS9j0aSqN0k4AP+4A="; pin-sha256="dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A="; pin-sha256="i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc="; includeSubdomains; report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only"
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Express
+Cache-Control: private, max-age=0, no-cache
+Set-Cookie: ydn-oidc=s%3ArS0DGSkQe7BphFLVMnu2OJExqwspglXl.TrjWAOIA0NDzjugMcyN%2BKANvdB97oXwrwFPsHf65mSk; Path=/; Expires=Sat, 06 Jun 2020 07:43:26 GMT; HttpOnly B=2do2vl9fdmi56&b=3&s=iq; expires=Sat, 06-Jun-2021 07:41:26 GMT; path=/; domain=.yahoo.com
+Retry-Count: 0
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

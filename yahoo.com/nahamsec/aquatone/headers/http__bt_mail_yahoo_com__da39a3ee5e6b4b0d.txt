@@ -1,0 +1,13 @@
+200 OK
+Cache-Control: max-age=120
+Last-Modified: Sat, 06 Jun 2020 07:32:18 GMT
+Date: Sat, 06 Jun 2020 07:32:19 GMT
+Set-Cookie: X-Mapping-okbjfidf=1C86D9AA6259DCA0F4D01E0FB3AF7BFA; path=/ JSESSIONID_SS_DYB=FvjvpbGDQhJMHBwx5pb3bZXrWQGfZPGnnTmhtLQ6MrmnpTfsRxJ9!402654117; domain=.bt.com; path=/; HttpOnly SS_X_JSESSIONID_CSD_DYA=HCVrpbGD6NM9kj2NGm3ppMNhGFf5T4T6hT9KkCQ7mkqGyynV5Trf!-1123430810; path=/ X-Mapping-knlpoeag=BFD345471E1C745D4C89F553C72FC263; path=/ btsite=2; domain=.bt.com; path=/
+X-Btsite: 2
+X-Llid: 27ac4a9e912f4ece7f3b1aa0e0923346
+X-Xss-Protection: 1; mode=block
+X-Ua-Compatible: IE=Edge
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN

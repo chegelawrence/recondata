@@ -1,0 +1,20 @@
+200 OK
+X-Envoy-Upstream-Service-Time: 12
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: no-store, no-cache, max-age=0, private
+Accept-Ch: device-memory, dpr, width, viewport-width, rtt, downlink, ect
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=www.yahoo.com B=25kt7jpfdmhj6&b=3&s=qt; Max-Age=31557600; Domain=.yahoo.com; Path=/
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=US&lang=en-US&device=desktop&yrid=7gjj5rdfdmhj7&partner=;
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Strict-Transport-Security: max-age=31536000
+Accept-Ch-Lifetime: 604800
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Expires: -1
+Date: Sat, 06 Jun 2020 07:31:51 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+X-Content-Type-Options: nosniff

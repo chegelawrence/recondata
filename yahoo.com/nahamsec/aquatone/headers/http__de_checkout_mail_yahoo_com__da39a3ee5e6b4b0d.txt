@@ -1,0 +1,18 @@
+403 
+Date: Sat, 06 Jun 2020 07:32:23 GMT
+X-Ua-Compatible: IE=edge
+Access-Control-Max-Age: 3600
+Server: Apache
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, X-XSRF-OMP,X-OMP-HEADER
+Access-Control-Allow-Origin: de.checkout.mail.yahoo.com
+Cache-Control: no-cache, no-store
+Content-Type: text/html;charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN

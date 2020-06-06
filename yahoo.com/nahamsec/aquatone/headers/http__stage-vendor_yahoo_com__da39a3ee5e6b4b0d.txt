@@ -1,0 +1,12 @@
+502 Cannot find server.
+Content-Type: text/html
+Date: Sat, 06 Jun 2020 07:35:16 GMT
+Server: ATS
+Cache-Control: no-store
+Content-Language: en
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 4352
+Strict-Transport-Security: max-age=15552000
+Retry-Count: 0

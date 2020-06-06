@@ -1,0 +1,17 @@
+200 OK
+Retry-Count: 0
+Pragma: no-cache
+Age: 6
+Strict-Transport-Security: max-age=15552000
+Server: ATS
+X-Xss-Protection: 1; mode=block
+Set-Cookie: JSESSIONID=node01b3wq1tfox4zp1dqtua6uzi1if23288.node0; Path=/kb B=4sb6ketfdmhkn&b=3&s=2c; Max-Age=31557600; Domain=.yahoo.com; Path=/
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding, User-Agent
+Date: Sat, 06 Jun 2020 07:32:42 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Expires: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Language: zh-HK

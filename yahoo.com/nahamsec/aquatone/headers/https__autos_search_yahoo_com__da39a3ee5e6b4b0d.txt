@@ -1,0 +1,15 @@
+200 OK
+Set-Cookie: B=03n5hndfdmhv6&b=3&s=a0; expires=Sat, 06-Jun-2021 07:38:14 GMT; path=/; domain=.yahoo.com
+Date: Sat, 06 Jun 2020 07:38:14 GMT
+Cache-Control: max-age=0, private
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+X-Envoy-Decorator-Operation: td-app-yahoo--v1-production-bf1.frontpage-k8s-frontend.svc.yahoo.local:4080/*
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Envoy-Upstream-Service-Time: 126
+Server: ATS
+Expires: -1
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff

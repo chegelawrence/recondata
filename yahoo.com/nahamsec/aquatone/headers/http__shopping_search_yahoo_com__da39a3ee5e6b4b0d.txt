@@ -1,0 +1,17 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+Public-Key-Pins-Report-Only: max-age=2592000; pin-sha256="2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY="; pin-sha256="I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o="; pin-sha256="K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q="; pin-sha256="Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw="; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="cGuxAXyFXFkWm61cF4HPWX8S0srS9j0aSqN0k4AP+4A="; pin-sha256="dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A="; pin-sha256="i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc="; includeSubdomains; report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy-Report-Only: default-src 'none'; connect-src 'self' https://geo.yahoo.com https://udc.yahoo.com https://bats.video.yahoo.com https://edgecast-vod.yahoo.net https://video.adaptv.advertising.com https://video-api.yql.yahoo.com https://edge-mcdn.secure.yahoo.com https://cloudflare-dns.com https://*.vpg.cdn.yimg.com https://guce.oath.com/ https://guce.yahoo.com https://tw.bid.yahoo.com https://tw-tp2.pp.bid.yahoo.com; script-src 'self' 'nonce-d007e9fd1fd7eba2975b578767eb1ae7' https://s.yimg.com https://yep.video.yahoo.com https://consent.cmp.oath.com; style-src 'self' 'unsafe-inline' https://s.yimg.com https://assets.video.yahoo.net; img-src 'self' data: https:; media-src blob:; font-src 'self' data: https://s.yimg.com https://www.yahoo.com; object-src 'none'; frame-ancestors 'none'; frame-src https://www.googletagmanager.com https://guce.oath.com https://www.yahoo.com https://cdn-ssl.vidible.tv; report-uri /report-violation
+Content-Type: text/html; charset=utf-8
+Etag: W/"2f009-M6o9o3VRKeeo92lQ1RvlEHqgaaM"
+Set-Cookie: B=252kfulfdmhpe&b=3&s=ek; expires=Sat, 06-Jun-2021 07:35:10 GMT; path=/; domain=.yahoo.com
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+Vary: Accept-Encoding
+Date: Sat, 06 Jun 2020 07:35:11 GMT
+Age: 2
+Server: ATS

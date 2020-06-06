@@ -1,0 +1,15 @@
+200 OK
+Server: Apache
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Date: Sat, 06 Jun 2020 07:32:14 GMT
+Pragma: no-cache
+Feature-Policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vr 'none'
+Strict-Transport-Security: max-age=31536000
+X-Ua-Compatible: IE=edge
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-cache, no-store
+Vary: Accept-Encoding,X-Requested-With

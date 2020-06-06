@@ -1,0 +1,16 @@
+200 OK
+X-Ua-Compatible: IE=edge
+X-Content-Type-Options: nosniff
+Server: Apache
+Pragma: no-cache
+Vary: Accept-Encoding,X-Requested-With
+Date: Sat, 06 Jun 2020 07:38:25 GMT
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Retry-Count: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache, no-store
+Set-Cookie: ns_s=5be8c3d2ac09e1e61d793f5006dfe2a2; path=/; secure; HttpOnly
+Feature-Policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vr 'none'

@@ -1,0 +1,9 @@
+200 OK
+Retry-Count: 0
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, PUT, POST
+Date: Sat, 06 Jun 2020 07:40:19 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: YLBID=web01; path=/
+Server: nginx
+Access-Control-Allow-Headers: Cache-Control, Pragma, Origin, Authorization, Content-Type, X-Requested-With
